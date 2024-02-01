@@ -6,7 +6,7 @@
 <title> Welcome  to devops evening batch 2024 </title>
 <style>
   body {
-    background-color: black;
+    background-color: orange;
   }
 </style>
 </head>
